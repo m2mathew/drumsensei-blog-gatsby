@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "Staying Sane with a Long Commute"
-date:   2016-05-19 08:06:46 -0600
-categories: work
-permalink: /:year/:title
+title: "Staying Sane with a Long Commute"
+date: "2016-05-19"
 ---
 
 ## or Podcasts!

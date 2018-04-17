@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "Filling Each Day"
-date:   2015-12-16 17:51:20 -0600
-categories: life
-permalink: /:year/:title
+title: "Filling Each Day"
+date: "2015-12-16"
 ---
 
 ## or Purposefully Making Each Day Count

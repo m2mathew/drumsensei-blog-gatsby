@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "The Weeks After Code School"
-date:   2015-11-30 15:13:01 -0600
-categories: code family
-permalink: /:year/:title
+title: "The Weeks After Code School"
+date: "2015-11-30"
 ---
 
 ## or How to stay focused

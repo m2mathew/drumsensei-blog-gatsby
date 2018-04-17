@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "Landing the Gig"
-date:   2016-01-17 12:00:00 -0600
-categories: interview code
-permalink: /:year/:title
+title: "Landing the Gig"
+date: "2016-01-17"
 ---
 
 ## or The Big Payoff

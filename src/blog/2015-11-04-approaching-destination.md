@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "Approaching Destination"
-date:   2015-11-04 19:34:45 -0600
-categories: code
-permalink: /:year/:title
+title: "Approaching Destination"
+date: "2015-11-04"
 ---
 
 ## or Catching Up

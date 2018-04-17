@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "The Iron Yard in Review"
-date:   2015-11-17 12:42:14 -0600
-categories: code family
-permalink: /:year/:title
+title: "The Iron Yard in Review"
+date: "2015-11-17"
 ---
 
 ## or What I learned about me

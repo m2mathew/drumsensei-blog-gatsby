@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "In Memoriam: Mark Mathew"
-date:   2017-05-13 12:12:12 -0600
-categories: family
-permalink: /:year/:title
+title: "In Memoriam: Mark Mathew"
+date: "2017-05-13"
 ---
 
 My bride Melissa and I arrived in California today. We flew into Orange County's John Wayne International Airport. After getting our nifty Toyota Corolla rental car, we headed directly to Newport Beach to hang out. My very favorite comedy show ever is "Arrested Development," so I was excited to maybe see the Original Bluth frozen banana stand in person. Spoiler alert: not one there! However, we did see three dolphins playing near the pier!

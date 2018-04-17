@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "Texas State Marching Contest 2016"
-date:   2016-11-08 08:32:59 -0600
-categories: band
-permalink: /:year/:title
+title: "Texas State Marching Contest 2016"
+date: "2016-11-08"
 ---
 
 Some random thoughts while watching the live cast of the 2016 Texas State Marching Contest. I surely will not be commenting on each of the 40 (!) bands in the prelims of this contest, but I will catch many of them.

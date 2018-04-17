@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "Browsing the Internet"
-date:   2017-04-04 12:12:12 -0600
-categories: web
-permalink: /:year/:title
+title: "Browsing the Internet"
+date: "2017-04-04"
 ---
 
 How do you consume internet websites these days? Is it through a web browser or possibly a native app? A literal ton of people are only using Facebook to see the internet. (As an aside, you likely have more than one family member who doesn't even know that Facebook is ON the internet. sigh…)

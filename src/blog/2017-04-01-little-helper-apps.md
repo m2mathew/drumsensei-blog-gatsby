@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "Little Helper Apps"
-date:   2017-04-01 21:54:31 -0600
-categories: apps
-permalink: /:year/:title
+title: "Little Helper Apps"
+date: "2017-04-01"
 ---
 
 My wife was recently telling me that she likes using the "little thingy" to change the size of the app running on her laptop. After a short conversation about the app, I started thinking that I use several "little thingy" apps on my Mac to help stay organized and quickly do some tasks. These apps save me a lot of time and help me

@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "Switching Gears"
-date:   2015-08-01 17:00:33 -0600
-categories: coding
-permalink: /:year/:title
+title: "Switching Gears"
+date: "2015-08-01"
 ---
 
 Well, I am leaving the formal teaching profession to do something completely different. When all of my kiddos and so many friends across the state go back to school in late August, I will also start school. For 12 weeks I will be in an immersive program called **[The Iron Yard](http://www.theironyard.com)** in Austin, Texas. This coding bootcamp is designed to teach me how to graduate with the skills to be a [Front-End Developer](https://en.wikipedia.org/wiki/Front_end_development), which is fancy-talk for someone who makes the parts of websites that everyone can see. When I come up for air around Thanksgiving, I will be taking my skills to a company where I can create cool things and make a difference in my community writ large. My hope is to continue to keep our family in the Dallas area, but we will have to see what happens!

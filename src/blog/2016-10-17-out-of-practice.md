@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "Out of Practice"
-date:   2016-10-17 09:58:35 -0600
-categories: work code
-permalink: /:year/:title
+title: "Out of Practice"
+date: "2016-10-17"
 ---
 
 I have noticed a funny thing as of late. In music-making and writing I am out of practice. This is a cautionary tale of awareness and a possible solution to being out of practice.

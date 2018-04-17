@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "Final Push"
-date:   2015-11-10 09:13:46 -0600
-categories: code
-permalink: /:year/:title
+title: "Final Push"
+date: "2015-11-10"
 ---
 
 ## or Finishing the Marathon

@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "Staying Connected"
-date:   2015-12-03 07:49:33 -0600
-categories: community
-permalink: /:year/:title
+title: "Staying Connected"
+date: "2015-12-03"
 ---
 
 ## or Self-encouragement
