@@ -1,4 +1,10 @@
-# gatsby-starter-default
+# 2018 version of drumsensei blog
+
+Old blog site was built with Rapidweaver. Then I rewrote the entire thing is Jekyll but never shipped it. Gatsby wandered by and caught my eye, and here we are.
+
+
+# Kicked off with GatsbyJS
+
 The default Gatsby starter.
 
 For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
