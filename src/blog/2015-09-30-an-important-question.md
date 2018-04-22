@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "An Important Question"
-date:   2015-09-30 07:44:14 -0600
-categories: motivation
-permalink: /:year/:title
+title: "An Important Question"
+date: "2015-09-30"
 ---
 
 ## A former student asks an important question

@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "Finding Music Again"
-date:   2015-10-07 08:09:33 -0600
-categories: music
-permalink: /:year/:title
+title: "Finding Music Again"
+date: "2015-10-07"
 ---
 
 ## Shaking off the burnt toast

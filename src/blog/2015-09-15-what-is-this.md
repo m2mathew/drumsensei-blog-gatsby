@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "What Is This?"
-date:   2015-09-15 21:52:26 -0600
-categories: code
-permalink: /:year/:title
+title: "What Is This?"
+date: "2015-09-15"
 ---
 
 ## JS Keyword "this"

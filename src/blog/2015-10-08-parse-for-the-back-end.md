@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "Parse for the Back End"
-date:   2015-10-08 11:59:31 -0600
-categories: code
-permalink: /:year/:title
+title: "Parse for the Back End"
+date: "2015-10-08"
 ---
 
 ## Authentication for Beginners

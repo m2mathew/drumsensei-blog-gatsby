@@ -1,9 +1,6 @@
 ---
-layout: post
-title:  "Relearning Problem Solving"
-date:   2015-10-16 07:39:46 -0600
-categories: code education
-permalink: /:year/:title
+title: "Relearning Problem Solving"
+date: "2015-10-16"
 ---
 
 ## or Remembering how to learn
