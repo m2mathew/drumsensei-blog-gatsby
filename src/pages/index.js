@@ -5,7 +5,7 @@ export default ({ data }) => {
   console.log(data);
   return (
     <div>
-      <h2 style={{
+      <h3 style={{
         backgroundColor: 'white',
         display: 'inline-block',
         marginBottom: '4.35rem',
@@ -13,7 +13,7 @@ export default ({ data }) => {
         textRendering: 'optimizeLegibility',
       }}>
         Betwixt Code and Music
-      </h2>
+      </h3>
       <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
       {data.allMarkdownRemark.edges.map(({ node }) => (
         <div key={node.id}>
