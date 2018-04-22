@@ -1,10 +1,13 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import hex2rgba from 'hex2rgba'
 
+// Component Definition
 const Header = ({ siteTitle }) => (
   <div
     style={{
-      background: 'rebeccapurple',
+      background: `linear-gradient(rebeccapurple, ${hex2rgba('#663399', 0.8)})`,
+      borderBottom: `solid 4px #bbb`,
       marginBottom: '1.45rem',
     }}
   >
