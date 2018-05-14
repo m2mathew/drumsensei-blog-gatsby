@@ -5,12 +5,22 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.259",
+    "gatsby-cli": "^1.1.52",
     "gatsby-link": "^1.6.44",
+    "gatsby-plugin-gosquared": "^1.0.1",
     "gatsby-plugin-react-helmet": "^2.0.11",
+    "gatsby-plugin-typography": "^1.7.18",
     "gatsby-source-filesystem": "^1.5.35",
     "gatsby-transformer-remark": "^1.7.40",
+    "gray-percentage": "^2.0.0",
     "hex2rgba": "0.0.1",
-    "react-helmet": "^5.2.0"
+    "react-helmet": "^5.2.0",
+    "react-typography": "^0.16.13",
+    "typeface-space-mono": "0.0.54",
+    "typeface-spectral": "0.0.54",
+    "typography": "^0.16.17",
+    "typography-breakpoint-constants": "^0.15.10",
+    "typography-plugin-code": "^0.16.11"
   },
   "keywords": [
     "gatsby"
