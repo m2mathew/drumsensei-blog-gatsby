@@ -9,7 +9,7 @@ export default ({ data }) => {
         backgroundColor: 'white',
         display: 'inline-block',
         marginBottom: '4.35rem',
-        mixBlendMode: 'scree',
+        mixBlendMode: 'screen',
         textRendering: 'optimizeLegibility',
       }}>
         Betwixt Code and Music

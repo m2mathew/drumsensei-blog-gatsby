@@ -7,6 +7,20 @@ const fontFamilyList = [
   'Cooper Std','cooper-black-std','BlinkMacSystemFont','avenir next','avenir','helvetica','helvetica neue','ubuntu','roboto','noto','segoe ui','arial', 'sans-serif',
 ];
 
+const linkContainerStyles = {
+  alignItems: 'center',
+  borderBottom: '4px solid rebecccapurple',
+  display: 'flex',
+  height: 80,
+  overflow: 'hidden',
+};
+
+const linkStyles = {
+  color: 'white',
+  fontWeight: 400,
+  textDecoration: 'none',
+};
+
 // Component Definition
 const Header = ({ siteTitle }) => (
   <div
@@ -18,11 +32,7 @@ const Header = ({ siteTitle }) => (
       marginBottom: '1.45rem',
     }}
   >
-    <div
-      style={{
-        padding: '1.45rem 1.0875rem',
-      }}
-    >
+    <div style={linkContainerStyles}>
       <h3 style={{ margin: 0 }}>
         <Link
           to="/"
@@ -36,18 +46,21 @@ const Header = ({ siteTitle }) => (
         </Link>
       </h3>
     </div>
-    <div
-      style={{
-        padding: '1.45rem 1.0875rem',
-      }}
-    >
+    <div style={linkContainerStyles}>
+      <h4 style={{ margin: 0 }}>
+        <Link
+          to="/"
+          style={linkStyles}
+        >
+          Home
+        </Link>
+      </h4>
+    </div>
+    <div style={linkContainerStyles}>
       <h4 style={{ margin: 0 }}>
         <Link
           to="/about"
-          style={{
-            color: 'black',
-            textDecoration: 'none',
-          }}
+          style={linkStyles}
         >
           About
         </Link>
