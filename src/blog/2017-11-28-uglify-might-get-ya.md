@@ -14,11 +14,12 @@ I recently ran into a snag with an app we are building at my workplace. This is 
 We use handy webpack plug-ins that do tasks like:
 
 -Removing any comments in the app (not useful when the app is in production)
-  - e.g. `// TODO: Don't ship comments`
-- Generating HTML files directly from the JavaScript
-- Removing all unused files from the bundle
-  - No reason to ship any files to production that are unused by the user
-- Making a [nyan-cat](https://www.youtube.com/watch?v=QH2-TGUlwu4&t=46s) fly across the screen while the project is building on our local machine
+
+* e.g. `// TODO: Don't ship comments`
+* Generating HTML files directly from the JavaScript
+* Removing all unused files from the bundle
+  * No reason to ship any files to production that are unused by the user
+* Making a [nyan-cat](https://www.youtube.com/watch?v=QH2-TGUlwu4&t=46s) fly across the screen while the project is building on our local machine
 
 ![nyan-cat-by-Ola-Tandstand-from-dribbble.com](http://res.cloudinary.com/drumsensei/image/upload/v1517119656/catdribblegif2_bbmyfe.gif)
 
@@ -44,10 +45,10 @@ For instance, you spin up the app, and your account information never gets loade
 
 In the case of a credit card transaction, there are MANY different possible errors that occur: invalid CVN, invalid Postal Code, et al. We handle those specific types of errors by constructing a new object and labeling it with the new **name** "HttpError". When we checked for this error to display a specific credit card error message on our local machines everything worked great! We shipped it to a production test environment, and it always failed…not just wrong error, but entire app crashes and burns.
 
-
 ![crash-bandicoot](http://res.cloudinary.com/drumsensei/image/upload/v1517121162/crash-bandicoot-dribbble_kn2q8z.jpg)
 
 ##### Oops—wrong kind of crash
+
 ##### Credit: "Bandicoot" by [Lic Pollito from dribbble.com](https://dribbble.com/licpollito)
 
 Turns out, our newly constructed HttpError object was renamed to `r` in production. We kept seeing the error `"r.isCcError" is undefined`. After several moments of panic, we realized that webpack's extremely useful plug-in was crashing our app by renaming our HttpError object to one simply called `r`.

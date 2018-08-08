@@ -5,35 +5,50 @@ import hex2rgba from 'hex2rgba'
 
 // Local Variables
 const fontFamilyList = [
-  'Cooper Std','cooper-black-std','BlinkMacSystemFont','avenir next','avenir','helvetica','helvetica neue','ubuntu','roboto','noto','segoe ui','arial', 'sans-serif',
-];
+  'Cooper Std',
+  'cooper-black-std',
+  'BlinkMacSystemFont',
+  'avenir next',
+  'avenir',
+  'helvetica',
+  'helvetica neue',
+  'ubuntu',
+  'roboto',
+  'noto',
+  'segoe ui',
+  'arial',
+  'sans-serif',
+]
 
 const linkContainerStyles = {
   alignItems: 'center',
   display: 'flex',
   height: 80,
   overflow: 'hidden',
-};
+}
 
 const activeLinkContainerStyles = {
   ...linkContainerStyles,
   borderBottom: '4px solid rebecccapurple',
-};
+}
 
 const linkStyles = {
   color: 'white',
   fontWeight: 400,
   textDecoration: 'none',
-};
+}
 
 // Component Definition
 const Header = ({ siteTitle }) => {
-  console.log('hey', activeLinkContainerStyles);
+  console.log('hey', activeLinkContainerStyles)
   return (
     <div
       style={{
         alignItems: 'center',
-        background: `linear-gradient(135deg, ${hex2rgba('#663399', 0.4)}, ${hex2rgba('#663399', 0.7)})`,
+        background: `linear-gradient(135deg, ${hex2rgba(
+          '#663399',
+          0.4
+        )}, ${hex2rgba('#663399', 0.7)})`,
         display: 'flex',
         justifyContent: 'space-around',
         marginBottom: '1.45rem',
@@ -76,7 +91,7 @@ const Header = ({ siteTitle }) => {
         </h4>
       </div>
     </div>
-  );
-};
+  )
+}
 
 export default Header

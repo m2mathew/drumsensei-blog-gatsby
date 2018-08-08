@@ -1,17 +1,19 @@
-import React from "react";
-import Link from "gatsby-link";
+import React from 'react'
+import Link from 'gatsby-link'
 
 export default ({ data }) => {
-  console.log(data);
+  console.log(data)
   return (
     <div>
-      <h3 style={{
-        backgroundColor: 'white',
-        display: 'inline-block',
-        marginBottom: '4.35rem',
-        mixBlendMode: 'screen',
-        textRendering: 'optimizeLegibility',
-      }}>
+      <h3
+        style={{
+          backgroundColor: 'white',
+          display: 'inline-block',
+          marginBottom: '4.35rem',
+          mixBlendMode: 'screen',
+          textRendering: 'optimizeLegibility',
+        }}
+      >
         Betwixt Code and Music
       </h3>
       <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
@@ -22,34 +24,34 @@ export default ({ data }) => {
             css={{ textDecoration: `none`, color: `inherit` }}
           >
             <h3 style={{ marginBottom: '4px' }}>
-              {node.frontmatter.title}{" "}
-              <span style={{ color: "#BBB" }}>— {node.frontmatter.date}</span>
+              {node.frontmatter.title}{' '}
+              <span style={{ color: '#BBB' }}>— {node.frontmatter.date}</span>
             </h3>
           </Link>
-            <p>{node.excerpt}</p>
+          <p>{node.excerpt}</p>
         </div>
-          ))}
+      ))}
     </div>
-      );
-      };
+  )
+}
 
-      export const query = graphql`
+export const query = graphql`
   query IndexQuery {
-        allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {
-        totalCount
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+      totalCount
       edges {
         node {
-      id
+          id
           frontmatter {
-        title
+            title
             date(formatString: "DD MMMM, YYYY")
-    }
+          }
           fields {
-        slug
+            slug
+          }
+          excerpt
+        }
       }
-      excerpt
     }
   }
-}
-}
-`;
+`

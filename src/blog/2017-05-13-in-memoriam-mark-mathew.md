@@ -7,9 +7,9 @@ My bride Melissa and I arrived in California today. We flew into Orange County's
 
 I have learned some fun facts about Cali on this visit.
 
-- The FM 101.1 radio station has some fantastic jams, just like the one in Dallas…except the Big D version is 100% orchestral music!
-- You can order a combo at Del Taco and get french fries…this is unheard of in TX!
-- California has mountains! Very cool to see this after spending most of my life in Dallas.
+* The FM 101.1 radio station has some fantastic jams, just like the one in Dallas…except the Big D version is 100% orchestral music!
+* You can order a combo at Del Taco and get french fries…this is unheard of in TX!
+* California has mountains! Very cool to see this after spending most of my life in Dallas.
 
 ### On to my Dad…
 
@@ -38,6 +38,7 @@ My mom Denise passed away on Christmas Eve 2012 after a life-long struggle with 
 ![just-before-the-led-zeppelin-1977-concert-in-Dallas](http://res.cloudinary.com/drumsensei/image/upload/v1516597853/just-before-led-zeppelin-4-1-1977_qa6ixg.jpg)
 
 ##### April 1, 1977 in Dallas, TX - Dinner just before the first performance of Led Zeppelin's final North American tour
+
 ##### left to right: Kim, Val, Mark, and Denise
 
 ![Mark-with-guitar](http://res.cloudinary.com/drumsensei/image/upload/v1516597986/mark-1_t2n5yt.jpg)

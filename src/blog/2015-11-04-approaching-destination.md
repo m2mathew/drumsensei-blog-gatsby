@@ -47,7 +47,7 @@ As a former co-worker of Frank Troyka, the venerated teacher and leader of young
 
 ### Angular
 
-This is a MVC framework created by people working at Google. We have used Backbone, which is a MV* framework. We have used React, which is mostly the V of the previous examples. Angular is huge and does a lot of things. Aaron walked us through some models, controllers, and modules, and we discussed two-way data-binding. I had done a very small "to-do list" tutorial before, so some of this was not foreign to me. However, it is a good deal different than the ways that we have approached similar problems. I feel confident that I could pick it up, if needed. I do find it odd that Google doesn't actually use this in production (at least, to my knowledge).
+This is a MVC framework created by people working at Google. We have used Backbone, which is a MV\* framework. We have used React, which is mostly the V of the previous examples. Angular is huge and does a lot of things. Aaron walked us through some models, controllers, and modules, and we discussed two-way data-binding. I had done a very small "to-do list" tutorial before, so some of this was not foreign to me. However, it is a good deal different than the ways that we have approached similar problems. I feel confident that I could pick it up, if needed. I do find it odd that Google doesn't actually use this in production (at least, to my knowledge).
 
 ### User Stories
 

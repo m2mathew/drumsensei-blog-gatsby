@@ -10,6 +10,7 @@ As I sit and reflect over the last few months of my time at The Iron Yard-Austin
 ![mathew-kids-1st-day-of-school-2015](http://res.cloudinary.com/drumsensei/image/upload/e_vibrance:20/v1515862398/first-day-of-school-2015_uornxk.jpg)
 
 ##### Mathew children heading off to the first day of school - August 2015
+
 ##### (left to right) Stephen - 11th grade, Isaac - 7th grade, Olivia - pre-K, Alexis - 5th grade
 
 I moved to Austin to live out of a suitcase, with the goal of returning to Dallas each weekend to see my family. This year, just like any other, I started school at the same time as my own children, but I would be in another city far from home. The Sunday before The Iron Yard August cohort began, I drove down to move into my friend Dave's spare bedroom. He is a good guy, and we go back a long ways. When I first began teaching my own groups, Dave was my constant percussion companion while he was an undergrad student at TCU, also working to get young people to achieve greatness each day. Over the years, I had Dave come up from Austin to help teach my groups for one week each summer. This was a nearly annual event for over a decade. I love Dave, and he is a good friend to many people for good reason. As a bonus, he is a superb cook who avoids red meat, so I tended to eat pretty well, too! I owe Dave in a big way!

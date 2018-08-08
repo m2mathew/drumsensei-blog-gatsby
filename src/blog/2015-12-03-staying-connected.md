@@ -16,12 +16,13 @@ I am a weird bird, equally comfortable sitting alone in my living room reading a
 If you have been watching me code (don't be creepy), then you would have noticed me mumbling, "focus, focus, focus, focus" to myself. Hey, I am not above talking to myself (apparently [programmers are known to do this](http://www.rubberduckdebugging.com/), even encouraged to do so). I am also one of those people who doesn't really care what other people think, so some days you will find me sitting in the public library muttering to my laptop. I am friendly and _mostly_ stable...don't be alarmed!
 
 This "focus" habit is helping me to:
-- Find new job listings
-- Work on coding projects
-- Learn JavaScript frameworks (Hello, Angular!)
-- Keep my GitHub streak alive
-- Fill journals with code
-- Stay connected with my kiddos
+
+* Find new job listings
+* Work on coding projects
+* Learn JavaScript frameworks (Hello, Angular!)
+* Keep my GitHub streak alive
+* Fill journals with code
+* Stay connected with my kiddos
 
 Staying connected to other programmers and technologists (hehe) has been less challenging than I expected. I am on several [Slack teams](https://slack.com/). This is a fun way to communicate and stay "in-the-know" on what is happening in your network or the world writ large. I have learned about multiple jobs, meetups, articles, tutorials, cat .gifs...you name it. I also curate my twitter feed to show me people and places to learn more things.
 

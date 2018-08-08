@@ -1,16 +1,16 @@
 // External Dependencies
-import Typography from 'typography';
-import CodePlugin from 'typography-plugin-code';
+import Typography from 'typography'
+import CodePlugin from 'typography-plugin-code'
 import {
   MOBILE_MEDIA_QUERY,
   TABLET_MEDIA_QUERY,
   MIN_DEFAULT_MEDIA_QUERY,
   MIN_LARGER_DISPLAY_MEDIA_QUERY,
-} from 'typography-breakpoint-constants';
+} from 'typography-breakpoint-constants'
 
 // Internal Dependencies
 // import presets, { colors } from './presets';
-import colors from './colors';
+import colors from './colors'
 
 const options = {
   headerFontFamily: [
@@ -42,9 +42,7 @@ const options = {
   googleFonts: [
     {
       name: 'Work Sans',
-      styles: [
-        '800',
-      ],
+      styles: ['800'],
     },
   ],
   baseFontSize: `18px`,
@@ -54,8 +52,8 @@ const options = {
   bodyColor: colors.gray.copy,
   blockMarginBottom: 0.75,
   scaleRatio: 2,
-};
+}
 
-const typography = new Typography(options);
+const typography = new Typography(options)
 
-export default typography;
+export default typography

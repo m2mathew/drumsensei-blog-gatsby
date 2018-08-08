@@ -5,7 +5,6 @@ date: "2015-09-17"
 
 ## Building a gallery for images posted from users
 
-
 We have spent the week learning how to simplify JavaScript down into jQuery (although, that is an oversimplification itself, in some ways). Then we learned how to connect to a server using AJAX, pushing information to the server and then learning how to retrieve it. When you put that information alongside the small projects we did all week like creating a login page and making a todo list, then creating an [Instagram](https://instagram.com) clone (albeit a smaller scale) is a logical outgrowth of that.
 
 So, that is my goal for today and this weekend. If you need me, then I will be under the hood of Sublime Text reading some Input Mono and muttering to myself incomprehensibly.

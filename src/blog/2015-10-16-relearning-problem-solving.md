@@ -33,11 +33,11 @@ I recall learning the beginning of the famous song "Merlin" by Andrew Thomas. It
 
 Several issues:
 
-- The notation is handwritten which may make it more challenging to read for some people.
-- The grand staff is in use, so the performer will have to know both treble and bass clefs
-- It is in 6/8 time signature, but you cannot tell that when listening to it.
-- The volume changes rapidly from very soft to very loud, so the performer has to be able to control dynamics.
-- In measure three the notation begins to separate the hands across the grand staff, which makes it more challenging to read.
+* The notation is handwritten which may make it more challenging to read for some people.
+* The grand staff is in use, so the performer will have to know both treble and bass clefs
+* It is in 6/8 time signature, but you cannot tell that when listening to it.
+* The volume changes rapidly from very soft to very loud, so the performer has to be able to control dynamics.
+* In measure three the notation begins to separate the hands across the grand staff, which makes it more challenging to read.
 
 And this is just the beginning of the piece - we didn't even discuss what it takes from the hands to perform the techniques!
 

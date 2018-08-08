@@ -15,7 +15,6 @@ Before I comment on bands…there appears to be some kind of valve machine in th
 
 Killer uniforms! Loving the feather in the hat. Really good percussion exposure in this show. Both battery and front ensemble have some good moments. Easy to see how they got to state. Good ensemble marching and playing. Some intonation issues in the winds in ensemble music moments. I hype the sound of Pearl drums. Battery feature about 1/2 way through show is superb. I still don't dig the tilted snare drum situation (that applies to any group, not just this one). Great closer. Really nice job, band! It's nice to see a band just come out and play without an entire production or props and stages.
 
-
 ### Hebron HS
 
 Very cool pre-show. Seems like the funny hats are getting even funnier as time goes on in marching band! The uniforms look like suits. Very classy. The front ensemble is mic'ed very well. Some wrong notes coming through those mics, though! Intonation issues with the double-reed soloists. The rainy, slightly cold weather cannot be helping those finicky instruments. Winds sound amazing in ensemble moments! Now there are parasols coming on to the field. Watching individuals march is a pleasure. Some great technique that looks very uniform overall. The syncopated wind rhythms are quite tricky. Very impressive if together. Almost got it! The ensemble woodwind "noodling" is pretty great. 😜 Very proud of my former private lesson student Tanner Trigg who is their percussion director. He's doing some great stuff with his students!

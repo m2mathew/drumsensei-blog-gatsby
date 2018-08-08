@@ -1,7 +1,8 @@
 ---
 title: "And In This Corner..."
-date: "2015-07-31" 
+date: "2015-07-31"
 ---
+
 I am Mike Mathew, and you have stumbled into my corner of the interwebs. Welcome!
 
 In the case that you don't know me, please go find my [About](/about) page and learn more there. If I already know you, then we should probably talk more often. Please send a text that reads: **`Let's do lunch`**
