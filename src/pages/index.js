@@ -18,18 +18,19 @@ export default ({ data }) => {
       </h3>
       <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
       {data.allMarkdownRemark.edges.map(({ node }) => (
-        <div key={node.id}>
-          <Link
-            to={node.fields.slug}
-            css={{ textDecoration: `none`, color: `inherit` }}
-          >
-            <h3 style={{ marginBottom: '4px' }}>
-              {node.frontmatter.title}{' '}
-              <span style={{ color: '#BBB' }}>— {node.frontmatter.date}</span>
-            </h3>
+        <section
+          css={{
+            marginBottom: '2rem',
+          }}
+          key={node.id}
+        >
+          <Link to={node.fields.slug}>
+            <h3 css={{ marginBottom: '0.5rem' }}>{node.frontmatter.title}</h3>
           </Link>
-          <p>{node.excerpt}</p>
-        </div>
+          <div css={{ fontSize: '1.25rem' }}>
+            {node.frontmatter.date} • {node.frontmatter.length}
+          </div>
+        </section>
       ))}
     </div>
   )
@@ -44,7 +45,8 @@ export const query = graphql`
           id
           frontmatter {
             title
-            date(formatString: "DD MMMM, YYYY")
+            date(formatString: "MMMM DD, YYYY")
+            length
           }
           fields {
             slug

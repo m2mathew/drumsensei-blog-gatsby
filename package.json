@@ -4,9 +4,10 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "gatsby": "^1.9.274",
-    "gatsby-cli": "^1.1.52",
+    "gatsby": "^1.9.277",
+    "gatsby-cli": "^1.1.58",
     "gatsby-link": "^1.6.46",
+    "gatsby-plugin-glamor": "^1.6.13",
     "gatsby-plugin-gosquared": "^1.0.1",
     "gatsby-plugin-react-helmet": "^2.0.11",
     "gatsby-plugin-typography": "^1.7.18",
@@ -23,9 +24,7 @@
     "typography-breakpoint-constants": "^0.15.10",
     "typography-plugin-code": "^0.16.11"
   },
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": ["gatsby"],
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",

@@ -1,10 +1,12 @@
 module.exports = {
   siteMetadata: {
     title: 'drumsensei',
+    siteUrl: `http://drumsensei.com`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     `gatsby-transformer-remark`,
+    `gatsby-plugin-glamor`,
     {
       resolve: `gatsby-plugin-typography`,
       options: {
@@ -19,10 +21,10 @@ module.exports = {
       },
     },
     {
-    resolve: `gatsby-plugin-gosquared`,
-    options: {
-      token: 'GSN-961840-E',
+      resolve: `gatsby-plugin-gosquared`,
+      options: {
+        token: 'GSN-961840-E',
+      },
     },
-  },
   ],
 }
